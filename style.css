@@ -371,7 +371,9 @@ header .header-button:hover {
     .search-box.categorie select {
         font-size: 25px;
     }
-    
+    .footer-container .credits {
+        font-size: 2vh;
+    }
 
 
 

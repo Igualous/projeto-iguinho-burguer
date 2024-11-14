@@ -1,2 +1,1 @@
-Exercicio de HTMl e CSS
-Alteração no github
+Exercicio de HTML e CSS
